@@ -15,7 +15,7 @@ clean: clean2
 	rm .docker
 
 shell: bash
-start: bash
+start: bash container
 
 bash: clean2
 	@echo "Starting $(NAME) .."
