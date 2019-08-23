@@ -1,7 +1,7 @@
  ##
  # (C) Copyright 2018 Amplex, fm@amplex.dk
  ##
-FROM ubuntu:16.04
+FROM ubuntu:18.04
 
 MAINTAINER Flemming Madsen <amplexdenmark@gmail.com>
 
